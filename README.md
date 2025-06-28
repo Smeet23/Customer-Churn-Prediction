@@ -2,7 +2,6 @@
 
 A complete end-to-end machine learning project to analyze, model, and visualize customer churn behavior using the Telco dataset.
 
-![Churn Overview](assets/churn_dashboard.png) <!-- Optional image -->
 
 ## 🔍 Project Overview
 
